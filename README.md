@@ -7,7 +7,7 @@ Instead, it is designed as an npm template for creating a GeoGirafe application.
 
 To create a new GeoGirafe app, use the command:  
 ```
-npm create @geogirafe/template@latest my-geogirafe-app v0.9
+npm create @geogirafe/template@latest my-geogirafe-app v1.0
 ```
 
 This command initializes your project using this repository as a template, automatically generating any missing files. If you simply clone this repository, the following files will not be included:
