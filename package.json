@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "vite serve",
+    "start": "vite serve --host 0.0.0.0 --port 8080",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "generate-dev-certs-win": "node_modules\\@geogirafe\\lib-geoportal\\buildtools\\generate-dev-certs.cmd certs",
